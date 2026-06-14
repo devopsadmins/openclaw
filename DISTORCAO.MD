@@ -1,24 +1,15 @@
 Distorção
 
-[Capítulo 0 7](#_Toc1154216605)
-
-[Capítulo 1 9](#_Toc2138086129)
-
-[Capítulo 2 10](#_Toc1791792777)
-
-[Capítulo 3 12](#_Toc920940215)
-
-[Capítulo 4 13](#_Toc878809856)
-
-[Capítulo 5 15](#_Toc1623429524)
-
-[Capítulo 6 16](#_Toc1803646636)
-
-[Capítulo 7 18](#_Toc736119541)
-
-[Capítulo 8 19](#_Toc1357991912)
-
-[Capítulo 9 21](#_Toc478784945)
+[Capítulo 0](#capítulo-0)
+[Capítulo 1](#capítulo-1)
+[Capítulo 2](#capítulo-2)
+[Capítulo 3](#capítulo-3)
+[Capítulo 4](#capítulo-4)
+[Capítulo 5](#capítulo-5)
+[Capítulo 6](#capítulo-6)
+[Capítulo 7](#capítulo-7)
+[Capítulo 8](#capítulo-8)
+[Capítulo 9](#capítulo-9)
 
 Vou ser direto e honesto, sem teatro:
 
@@ -236,6 +227,8 @@ Simbolismo limpo demais.
 Numerologia performática.
 
 Cenas criadas "para impactar".
+
+Saltos temporais limpos e elipses redentoras. O continuísmo das cenas deve ser mantido através do arrasto e do acúmulo da dor.
 
 Se o texto parece provar que é inteligente, falhou.
 
@@ -710,3 +703,42 @@ O sinal abriu. Ele não engatou a primeira.
 Ficou ouvindo o rádio quebrado trabalhar, adequando a própria respiração às falhas da transmissão. Cada vez que o som picotava, os pulmões dele retinham o ar. 
 
 Caleb encontrou, no defeito, a única coisa que ainda lhe parecia segura.
+
+# Capítulo 10
+
+O portão de metal por onde Caleb saiu não fechou. Ficou entreaberto, sustentando uma fresta de escuridão sólida.
+
+Miguel não olhou para a porta. Os olhos dele estavam presos à linha de sangue que agora pingava do suporte de metal do piano e tocava o piso de cimento. O som da gota não batia com a física. Havia um intervalo exato, metódico, de um segundo e meio entre o instante em que a gota encontrava o chão e o som agudo que ecoava no galpão. Era o mesmo atraso de latência que ele media nas planilhas.
+
+Asafe não parou de martelar as teclas brancas. O indicador destro estava em um ângulo grotesco, mas o movimento vinha do ombro. Ele compensava a falha anatômica usando o peso das costas.
+
+- O compasso dele vai quebrar - disse Miguel, em voz baixa. - Se ele perder o ritmo, a linha no monitor vai cair.
+
+Não houve choque na constatação de Miguel. Havia a mesma frieza mecânica com a qual ele revisava relatórios após o almoço. A biologia de Asafe estava corrompida, mas a operação precisava se manter.
+
+Selma descruzou os braços. A respiração dela ainda era curta para evitar a ardência do ar de cal.
+
+Ela abriu a mochila de lona devagar e puxou uma pequena flanela suja, a mesma que usava para tirar a poeira das baquetas mudas. Caminhou até o banco de ferro.
+
+Miguel acompanhou o movimento dela. Selma não tentou tocar em Asafe. Ela sabia o que tinha acontecido com Caleb quando ele tentou usar força. O corpo no banco operava em uma densidade que repelia intervenção violenta.
+
+Selma abaixou-se ao lado do pedal do instrumento e apoiou o joelho no cimento. Dobrou a flanela e, no exato segundo em que o pulso quebrado de Asafe levantava para o próximo golpe, ela passava o pano sobre o plástico quebrado para absorver o sangue, evitando que a superfície ficasse escorregadia.
+
+Um. Bate. Limpa.
+Dois. Bate. Limpa.
+
+- Está molhando o teclado adjacente - ela disse, concentrada na tarefa imunda, a voz morta de afeto.
+
+Miguel tirou o celular do bolso. Abriu um documento em branco.
+
+- Qual é o intervalo? - perguntou Miguel.
+
+- Dois toques na branca, um na preta. - Selma puxava a flanela, manchando as próprias mãos. - O sangue pinga na pausa.
+
+Miguel anotou.
+
+Eles não buscaram ajuda. Não debateram a saída. Ninguém pensou em chamar uma ambulância ou em puxar o cabo da tomada para encerrar o absurdo.
+
+A realidade no galpão exigia manutenção contínua, e eles apenas haviam assumido seus novos cargos. Miguel padronizava a falha; Selma garantia que o desgaste físico de Asafe não parasse o trabalho.
+
+A adaptação estava concluída. O erro, agora, tinha equipe.

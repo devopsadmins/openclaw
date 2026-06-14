@@ -260,8 +260,9 @@ Todos perdem algo irreversível.
 - algo essencial se perde -  
    sem luto.
 
-## 10\. REGRA DE OURO DA ESCRITA
+## 10\. REGRA DE OURO DA ESCRITA E CONTINUÍSMO
 
+### A Regra de Ouro
 Atmosfera > explicação  
 Consequência > conceito  
 Corpo > pensamento  
@@ -272,6 +273,13 @@ Silêncio > interpretação
 **Se eu cortar isso, o leitor ainda sente?**
 
 Se sim → corte.
+
+### Continuísmo (A Cola do Desconforto)
+**O Tempo é Fricção, não Salto:**  
+Evite saltos temporais bruscos ou elipses confortáveis ("horas depois", "no dia seguinte"). A passagem de tempo não avança; ela se acumula e arrasta. O tempo deve ser sentido através da manutenção contínua de um hábito adoecido ou do cansaço físico.
+
+**A Costura de Cenas:**  
+O término de um capítulo e o início do outro não podem dar a sensação de alívio ou de que "a poeira baixou". A cena seguinte deve engatar na sujeira e no atrito deixados pela anterior. Não limpe o palco entre as ações. A consequência carrega o peso não resolvido.
 
 ## 11\. O FINAL
 
