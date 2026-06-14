@@ -6,6 +6,18 @@
       "sourceType": "github",
       "skillPath": "book-writer/SKILL.md",
       "computedHash": "1fe279404547d55cebf0244f10a470d07b7f6a5e40b571999ecc75cddb6123ff"
+    },
+    "canvas-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/canvas-design/SKILL.md",
+      "computedHash": "3fa7ea60170023ad8268bf9fd734ea75dd404279a2ef8ddf5abaa1102ad8e5f4"
+    },
+    "pdf": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/pdf/SKILL.md",
+      "computedHash": "ae0a8fde8447e83a08edd0baf5373cd52febce32494e47e17d5d695a441a1884"
     }
   }
 }
