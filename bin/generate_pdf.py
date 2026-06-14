@@ -1,8 +1,13 @@
 import markdown
 from weasyprint import HTML, CSS
 import os
+import sys
 
-with open('DISTORCAO.MD', 'r', encoding='utf-8') as f:
+# Define os caminhos de entrada e saída baseados nos argumentos do script
+input_file = sys.argv[1]
+output_file = sys.argv[2]
+
+with open(input_file, 'r', encoding='utf-8') as f:
     text = f.read()
 
 # Injeta o sumário no início se não existir.
@@ -21,7 +26,7 @@ full_html = f"""
     <title>Distorção</title>
     <style>
         @page {{
-            size: A5;
+            size: 148mm 210mm;
             margin: 25mm 20mm 20mm 20mm;
             @top-center {{
                 content: "DISTORÇÃO";
@@ -39,8 +44,8 @@ full_html = f"""
             }}
         }}
         
-        /* Regra específica para a página de capa: sem margens, sem cabeçalho, sem rodapé */
         @page cover_page {{
+            size: 148mm 210mm;
             margin: 0;
             @top-center {{ content: none; }}
             @bottom-center {{ content: none; }}
@@ -48,15 +53,20 @@ full_html = f"""
         
         .cover {{
             page: cover_page;
-            width: 100%;
-            height: 100%;
+            width: 148mm;
+            height: 210mm;
             page-break-after: always;
+            overflow: hidden;
+            display: block;
+            margin: 0;
+            padding: 0;
         }}
         
         .cover img {{
-            width: 100%;
-            height: 100%;
+            width: 148mm;
+            height: 210mm;
             object-fit: cover;
+            display: block;
         }}
         
         body {{
@@ -67,25 +77,23 @@ full_html = f"""
             text-align: justify;
         }}
         
-        /* Estilização para que os links não pareçam links de web */
         a {{
             color: inherit;
             text-decoration: none;
         }}
         
-        /* Diagramação do Sumário */
         .toc {{
             page-break-after: always;
             margin-top: 2em;
         }}
         .toc ul {{
-            list-style-type: none;
-            padding-left: 0;
+            list-style: none;
+            padding: 0;
+            margin: 0;
         }}
         .toc li {{
             margin-bottom: 0.5em;
         }}
-        /* Adiciona pontilhados e número da página no sumário usando WeasyPrint */
         .toc a::after {{
             content: leader('.') target-counter(attr(href), page);
         }}
@@ -101,7 +109,6 @@ full_html = f"""
             letter-spacing: 2px;
         }}
         
-        /* Evita quebra de página antes do primeiro H1 (que agora é o Sumário) */
         h1:first-of-type {{
             page-break-before: avoid;
         }}
@@ -125,9 +132,8 @@ full_html = f"""
     </style>
 </head>
 <body>
-    <!-- Injeção da Capa -->
     <div class="cover">
-        <img src="file://{os.path.abspath('capa_distorcao_azul_assinada.png')}" alt="Capa Distorção" />
+        <img src="file://{os.path.abspath('images/covers/capa_distorcao_azul_assinada.png')}" alt="Capa Distorção" />
     </div>
 
     {html_content}
@@ -135,6 +141,5 @@ full_html = f"""
 </html>
 """
 
-# Gera o PDF
-HTML(string=full_html).write_pdf('Distorcao_Livro.pdf')
-print("PDF gerado com sucesso!")
+HTML(string=full_html).write_pdf(output_file)
+print(f"PDF gerado com sucesso em {output_file}!")
