@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "azure-devops-mcp-replacement-for-openclaw": {
+      "version": "1.0.1",
+      "installedAt": 1781486329326,
+      "registry": "https://clawhub.ai"
+    }
+  }
+}

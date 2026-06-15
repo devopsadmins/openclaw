@@ -1,0 +1,2 @@
+export AZURE_DEVOPS_ORG="sousalimaconsultoria"
+export AZURE_DEVOPS_PAT="sqa_fb4ca4e042bfacdd35de1e911485bba4d48a34bb"

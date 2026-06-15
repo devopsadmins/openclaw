@@ -25,4 +25,4 @@ Este é o registro oficial de pendências consolidado.
 ## 4. NOVOS PROJETOS LITERÁRIOS
 - [ ] **ELIOM:** Estruturação de brief.
 - [ ] **NINGUÉM PRECISA SABER:** Planejamento inicial.
-- [ ] **PROJETO X (Em definição):** Formalizar premissa e título.
+- [ ] **A CHANCE DE OFIR (Em definição):** Formalizar premissa e título.
