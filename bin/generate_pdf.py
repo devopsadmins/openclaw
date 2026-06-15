@@ -30,7 +30,7 @@ full_html = f"""
             margin: 25mm 20mm 20mm 20mm;
             @top-center {{
                 content: "DISTORÇÃO";
-                font-family: 'Georgia', serif;
+                font-family: 'EB Garamond', serif;
                 font-size: 9pt;
                 color: #666;
                 letter-spacing: 2px;
@@ -38,7 +38,7 @@ full_html = f"""
             }}
             @bottom-center {{
                 content: counter(page);
-                font-family: 'Georgia', serif;
+                font-family: 'EB Garamond', serif;
                 font-size: 10pt;
                 color: #444;
             }}
@@ -70,8 +70,8 @@ full_html = f"""
         }}
         
         body {{
-            font-family: 'Georgia', serif;
-            font-size: 11pt;
+            font-family: 'EB Garamond', serif;
+            font-size: 12pt;
             line-height: 1.6;
             color: #111;
             text-align: justify;
@@ -84,7 +84,7 @@ full_html = f"""
         
         .toc {{
             page-break-after: always;
-            margin-top: 2em;
+            margin-top: 1em;
         }}
         .toc ul {{
             list-style: none;
@@ -92,42 +92,53 @@ full_html = f"""
             margin: 0;
         }}
         .toc li {{
-            margin-bottom: 0.5em;
+            margin-bottom: 0.3em;
         }}
         .toc a::after {{
             content: leader('.') target-counter(attr(href), page);
         }}
         
         h1 {{
-            font-size: 18pt;
+            font-family: 'EB Garamond', serif;
+            font-weight: bold;
+            font-size: 16pt;
             page-break-before: always;
             margin-top: 2em;
-            margin-bottom: 2em;
+            margin-bottom: 1em;
             text-align: center;
-            font-weight: normal;
             text-transform: uppercase;
-            letter-spacing: 2px;
+            letter-spacing: 1px;
         }}
         
         h1:first-of-type {{
             page-break-before: avoid;
+            margin-top: 1em;
         }}
         
         h2 {{
+            font-family: 'EB Garamond', serif;
+            font-weight: bold;
             font-size: 14pt;
-            margin-top: 1.5em;
-            margin-bottom: 1em;
-            font-weight: normal;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
         }}
         p {{
-            margin-bottom: 0;
+            margin-bottom: 0.5em;
             text-indent: 1.5em;
         }}
-        h1 + p, h2 + p, h3 + p {{
-            text-indent: 1.5em;
+        
+        /* Travessão para diálogos: seleciona apenas as listas dentro do corpo */
+        div:not(.toc) > ul {{
+            list-style: none;
+            padding: 0;
+            margin: 0;
         }}
-        p + p {{
-            margin-top: 0.2em;
+        div:not(.toc) > ul > li::before {{
+            content: "— ";
+        }}
+        div:not(.toc) > ul > li {{
+            margin: 0;
+            padding: 0;
         }}
     </style>
 </head>
