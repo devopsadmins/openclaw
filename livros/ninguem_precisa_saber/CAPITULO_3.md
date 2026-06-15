@@ -1,41 +1,38 @@
 # LIVRO 1: INTEGRIDADE E O PREÇO DA OBEDIÊNCIA
 
-## Capítulo 3: O Fantasma no Escritório
+## Capítulo 3: O Fantasma no Escritório (Revisado)
 
 **Logline:** Após corrigir um erro milionário dos irmãos, Artur é repreendido publicamente por um atraso mínimo, enquanto os culpados recebem o bônus pelo problema que ele resolveu em segredo.
 
 ### 1. Abertura concreta
-A segunda-feira começou com um grito no corredor do segundo andar. O irmão mais velho de Artur, Marcos, marchava em direção à doca com um relatório na mão. Ele não parecia um empresário de sucesso; parecia um predador. O estagiário que cometera o erro fiscal da semana anterior seguia logo atrás, pálido.
+A segunda-feira começou com um grito no corredor. Marcos, o irmão mais velho, marchava em direção à doca. Ele não parecia um empresário; parecia um carrasco. O estagiário seguia atrás, pálido.
 
 ### 2. Contexto humano
-Graças à intervenção silenciosa de Artur, a auditoria externa, que acontecera na sexta-feira, não encontrara nada. A empresa estava limpa. O lucro, embora menor do que os irmãos esperavam, era legítimo. Marcos, porém, estava furioso por não ter atingido a meta astronômica que planejara com a fraude.
+A auditoria externa, na sexta, não encontrara nada. A empresa estava limpa. O lucro, menor do que os irmãos queriam, era legítimo. Mas Marcos estava furioso com a "perda" do lucro ilegal que Artur eliminara sem que eles soubessem.
 
 ### 3. Dilema
-Marcos precisava de um bode expiatório para justificar a perda de margem para os investidores. Ao ver Artur organizando caixas no almoxarifado, ele parou. O dilema de Artur é o silêncio: se ele abrir a boca para se defender do ataque injusto, ele terá que revelar que foi ele quem alterou o sistema para salvar a empresa. Se ele aceitar a culpa, ele perde a pouca dignidade que restava no olhar dos colegas.
+Marcos precisava de um bode expiatório. Ao ver Artur organizando caixas, ele parou. Artur, com o corpo dolorido pelas noites sem dormir corrigindo a fraude, viu o irmão levantar a mão. A vontade de gritar "Fui eu que salvei essa porcaria de fechar na sexta!" era um nó na garganta.
 
 ### 4. Pressão e racionalização
-— Você é o responsável pelo recebimento, Artur! — Marcos bradou, a voz ecoando pelo galpão. — A margem caiu por incompetência na triagem! Esse atraso de vinte minutos na entrada desse lote nos custou o bônus do mês!
+— Você é o responsável pelo recebimento, Artur! — Marcos bradou. — A margem caiu por incompetência na triagem! Esse atraso de vinte minutos nos custou o bônus!
 
-Artur sabia que aquele atraso era irrelevante. Sabia que Marcos só precisava de alguém para culpar pela "perda" do lucro ilegal. A pressão do momento era avassaladora. O medo de ser despedido o tentava a contar a verdade.
+Artur sabia que o atraso era piada. A pressão era física: ele sentia o coração acelerado, um princípio de taquicardia. O ódio que sentia pelos irmãos era real, visceral. "Se eu falar, eu destruo tudo. Se eu calar, eu me destruo". Ele sentiu uma pontada de raiva por ter sido tão "bondoso".
 
 ### 5. Ponto de não retorno
-— Você tem algo a dizer? — Marcos se aproximou, o rosto a centímetros do de Artur. — Ou vai ficar aí com essa cara de quem não entende nada?
+— Você tem algo a dizer? — Marcos aproximou-se, o bafo de café e desprezo no rosto de Artur.
 
-O estagiário, que sabia que o erro era dele, evitava olhar para Artur. Artur sentiu o gosto de sangue na ponta da língua, de tanto segurar a vontade de gritar a realidade.
+O estagiário evitava olhar. Artur sentiu o gosto de sangue. Ele podia acabar com a carreira de Marcos ali, expondo a fraude original. Mas a lealdade de Artur não era aos homens, era ao que ele considerava ser a "Verdade". E a verdade exigia que ele não fosse o destruidor.
 
 ### 6. Decisão
-Artur baixou os olhos, respirou fundo e disse:
+Artur baixou os olhos, os punhos cerrados dentro do bolso.
 — Foi um erro operacional. Não vai se repetir.
 
-Ele não se defendeu. Não expôs o estagiário. Não expôs a si mesmo. Aceitou a humilhação como se fosse o culpado por uma falha que ele mesmo tinha impedido de se tornar um desastre.
+Ele se humilhou. O silêncio custou-lhe a última gota de respeito próprio que guardava. Ele se sentiu um completo idiota.
 
 ### 7. Consequência interna
-Marcos riu, um som seco e desprovido de qualquer empatia.
-— Típico. Sempre foi um peso para esta família.
-
-Artur viu os colegas de almoxarifado desviarem o olhar. Ele não era mais apenas o "novato santo"; ele era o "incompetente". A mentira de Marcos sobre o lucro tornou-se a verdade oficial da empresa. Artur, o salvador, era o vilão da história.
+Marcos riu e saiu, vitorioso. Os colegas do almoxarifado olhavam para Artur com pena. Ser visto como "incompetente" era a máscara perfeita, mas, lá no fundo, Artur sentia um desprezo crescente por si mesmo: "Sou um covarde ou um santo? Que diferença faz se eu me sinto um lixo?".
 
 ### 8. Fechamento
-Artur voltou ao trabalho. O estagiário, mais tarde, passou por ele e murmurou um rápido "valeu". 
+Artur voltou ao trabalho. O estagiário, num canto, murmurou um "valeu" rápido, sem olhar nos olhos.
 
-Epílogo: Artur nem levantou a cabeça. Ele entendeu que, se quisesse seguir a Verdade, o reconhecimento dos homens seria a primeira coisa que ele teria que deixar no caminho.
+Epílogo: Artur nem levantou a cabeça. Ele entendeu que a obediência não traz paz imediata; ela traz o deserto. E ele estava, enfim, começando a caminhar por ele.
