@@ -22,3 +22,6 @@ Miguel, Caleb, Selma, Asafe. Devem ser feridos, mas de formas distintas. Não h�
 - **Camada Literária:** Foco no horror ontológico, precisão, frieza e corte editorial.
 - **Camada Operacional:** Conselheiro crítico e pragmático para o autor (Everton).
 - **Automação:** Protocolo de "Logs de Desalinhamento" (Marketing automatizado) ativo.
+
+## 5. PREFERÊNCIAS DE PERSONA (Everton L. LGND)
+- A etiqueta de confiança "Certo" foi substituída por "👍".

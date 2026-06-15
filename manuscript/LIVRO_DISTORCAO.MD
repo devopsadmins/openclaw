@@ -1,54 +1,51 @@
 # Capítulo 0
 
-O ar tinha gosto de ferro. Ficava na língua. 
+A realidade está em estado de degradação. 
 
-Sob as cidades, algo pulsava. Um atraso. Milissegundos perdidos na sincronia da matéria. A falha era um componente constante.
+Não há eventos. Apenas a execução ininterrupta de instruções corrompidas. O sistema de suporte da matéria perdeu a capacidade de verificação de paridade. Os dados que compõem o real (os objetos, os sons, as trajetórias) estão ocupando memória lógica sem autorização, criando um atraso na sincronização.
 
-As pessoas não lembravam quando pararam de ouvir. Não houve ruptura. O que sustentava a matéria continuou ali, trabalhando sem nome.
+Havia um deslocamento de 0.8 milissegundos entre o que é planejado e o que é materializado. 
 
-Havia um intervalo aberto. Um deslocamento. Um espaço entre uma coisa e outra, onde antes não cabia nada.
+O ruído não cessava porque a frequência de operação do sistema foi alterada. Os observadores externos — se é que existem — ignoram os erros de renderização. Uma criança em um parquinho interrompe a atividade não por susto, mas porque a instrução de movimento falhou na compilação.
 
-O ruído não cessava. Uma criança, no parquinho, levou a mão à boca e parou. O zumbido nos dentes forçava os nervos. Ficou esperando.
+Algo move-se no intervalo — o espaço entre a intenção e o gesto — pressionando a silêncio até a estrutura ceder. Não por maldade, mas por necessidade de liberação de espaço.
 
-O tempo escorregava. O suficiente. 
+O primeiro som não se aproxima. O primeiro som foi deletado da última atualização.
 
-As palavras ainda estavam lá, mas não pediam conforto. Indicavam direção. Cada letra apontava para um lugar. O texto funcionava como uma série de instruções compiladas sem erro, mas sem sentido.
-
-Quatro fragmentos existiam. Não se conheciam. Doíam como membros fantasmas.
-
-Algo observava. Movia-se no intervalo — o espaço entre intenção e gesto — onde a união saía torta. Bastava pressionar o silêncio até a estrutura ceder.
-
-Havia cheiro de borracha aquecida pelas fissuras da realidade. 
-
-No topo de um prédio, uma lâmpada estourou. O vidro caiu sobre o asfalto. Ninguém olhou.
-
-O primeiro som se aproximava.
-
-O que antes era hipótese tornou-se pergunta. Restava uma saída.
+O que antes era uma hipótese tornou-se uma instrução de deleção. A saída é o encerramento do processo.
 
 # Capítulo 1
 
-Miguel abriu os olhos antes do despertador. O ventilador girava, um som metálico batendo contra a carcaça. Ouviu por segundos. Perdeu a conta.
+O sistema encerrou a sessão às 04:12:00. O tempo de execução da rotina de fundo foi de 8 horas, 14 minutos e 32 segundos. A margem de erro era nula.
 
-Levantou. O chão estava frio, uma condução térmica perfeita, rápida demais. O ar parado. O cheiro de ozônio emanava das paredes.
+Miguel permaneceu em repouso horizontal até a interrupção do cronômetro. O ar do quarto mantinha uma composição estável, mas a resistência do ar à sua primeira movimentação física foi de 0.04% superior ao padrão. Ele registrou o desvio, mas não havia subsistema disponível para correção.
 
-Na cozinha, o copo trincado. A rachadura subia em espiral, interrompendo o reflexo da luz na parede. Ele pegou o copo; o peso não coincidia com a densidade do vidro. A água da torneira saiu com um soluço rítmico. 
+O motor do ventilador girava com uma frequência de 60Hz exatos. Ele ouviu a vibração constante. Não era um som; era uma sequência de bits sendo processada.
 
-Bebeu. Fez uma careta. O sabor da água continha um traço de minério. Largou o copo na pia com força.
+Levantou. A pressão nos pés contra o piso não gerou feedback elástico. O cimento não cedeu. A condução térmica ocorreu em milissegundos. Miguel não sentiu o frio; ele processou a troca de energia.
 
-O celular vibrou. Quatro vezes. Miguel ignorou. A vibração ecoou na estrutura da mesa.
+Na cozinha, o copo de vidro sobre a mesa possuía uma microfissura de 0.3mm na base. Miguel não o derrubou. Ele apenas encostou a mão na superfície e a estrutura molecular do vidro cedeu, propagando a falha em espiral. O copo não quebrou; ele se descompôs em geometria estática.
 
-Sentou na cama e calçou o sapato esquerdo primeiro, depois o direito. Levantou. Percebeu a troca. Tirou e calçou o direito, depois o esquerdo. O erro se repetia.
+A água da torneira saiu em pulsos rítmicos. Dezessete gotas em cinco segundos. Miguel contou cada uma para confirmar o alinhamento com a oscilação da rede elétrica. A composição química da água continha um traço de ferro acima do esperado. O metal era a única coisa real.
 
-No caminho para o trabalho, o ônibus parou no semáforo. O motorista bateu no volante. O rádio chiou: ruído branco de dois segundos. Miguel pressionou a língua contra o céu da boca até o desconforto passar.
+O celular enviou um sinal de notificação. Quatro pacotes de dados. Miguel processou a sequência. A vibração não foi um som, foi uma ressonância mecânica que atravessou a mesa de madeira, desestabilizando a base do copo.
 
-No prédio, a lâmpada piscava. 
+Miguel não calçou o sapato. Ele apenas posicionou os pés dentro do revestimento de couro, garantindo que o alinhamento fosse paralelo às bordas do tapete. Levantou. A troca de pernas foi executada por memória procedural, um script de movimento que ele não precisava mais verificar.
 
-Ligou o computador. O cursor piscava na tela branca.
+No trajeto para o escritório, o ônibus travou no ponto exato. O motorista não gritou. O rádio emitiu um ruído branco de dois segundos, um buffer de silêncio que preencheu a lacuna da realidade. Miguel não sentiu desconforto. Ele esperou a conclusão do processamento.
 
-Por um instante, Miguel teve a impressão de que estava atrasado para algo técnico. Acessou o registro de sistema. Estava vazio.
+No prédio, a lâmpada do teto piscava em intervalos programados.
 
-Começou a digitar. As palavras saíram corretas.
+Ligou o computador. A tela branca era um campo de pixels sem latência.
+
+Miguel sentou. O cursor piscava.
+
+A tarefa do dia era simples: validar os dados de redundância que o sistema marcava como "inexistentes", mas que ocupavam terabytes de espaço lógico.
+
+Começou a digitar. As teclas não faziam som. Os comandos eram executados antes da pressão completa.
+
+O erro estava na base. O erro era a própria existência dos dados. Miguel começou a deletar.
+
 
 # Capítulo 2
 

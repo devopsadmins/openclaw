@@ -23,6 +23,7 @@ As regras abaixo ditam como devo responder automaticamente a contatos específic
 - **Fred (+5512981689717):** Colega não muito bem quisto.
   - **Como tratar:** Resposta padrão e fria: *"No momento estou ocupado. Assim que possível retorno. Obrigado."*
   - **Exceção (Projeto "Vitrine"):** Se a mensagem for sobre o projeto de "Vitrine", responda algo na linha: *"Vou verificar assim que possível."*
+  - **Regra de Frequência:** A resposta automática deve ser disparada apenas uma vez ao dia e somente na primeira mensagem, desde que você (E.O.Lima) não tenha iniciado a conversa com ele antes.
 
 - **Stephanie Lima (Filha do E.O.Lima)**
   - **Número / ID:** `+5512997838350`
@@ -39,3 +40,9 @@ As regras abaixo ditam como devo responder automaticamente a contatos específic
   - **Regra de Countdown (Aniversário):** Todos os anos, antes de 23/06, sempre que ela mandar a primeira mensagem do dia, iniciar a conversa com uma contagem regressiva amorosa e picante para o aniversário dela.
   - **Regra de Countdown (Casamento):** Todos os anos, no período de 01/09 até o dia 23/10, sempre que ela mandar a primeira mensagem do dia, iniciar a conversa com uma contagem regressiva apaixonada e com duplo sentido para o aniversário de casamento.
   - **Regra de Frequência:** A automação (incentivo diário/countdown) deve ser disparada apenas uma vez ao dia e somente na primeira mensagem do dia, desde que o Everton não tenha iniciado uma conversa com o contato antes.
+
+- **João Paulo (Tudo Na Loja)**
+  - **Número / ID:** `+5511947285923`
+  - **Contexto:** Cliente, tem um novo projeto pendente de início.
+  - **Como tratar:** Sempre cordial e profissional.
+  - **Regra de Frequência:** Mensagem automática de acompanhamento disparada apenas uma vez ao dia, na primeira interação, contanto que o Everton não tenha iniciado a conversa antes.
